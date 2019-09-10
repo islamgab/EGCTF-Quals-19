@@ -1,993 +1,993 @@
-### Archive CyberTalents CTF`s
-### testing
-
-
- Egypt and UAE National Cyber Security CTF Quals 2017
+ ### Archive CyberTalents CTF`s
+ #### Testing
+ 
+ 
+ Egypt And Uae National Cyber Security Ctf Quals 2017
 ==============================================
 
-| name | level | points | category | status | flag |
+| Name | Level | Points | Category | Status | Flag |
 |:-:|:-:|:-:|:-:|:-:|:-:|
-| darK project  | medium | 100 | weB information |
-| get rid of them all  | easy | 50 | malwarE reversE engineering |
-| hack thE app  | hard | 200 | malwarE reversE engineering |
-| intercept  | basic | 25 | generaL information | man in the middle | MITM |
-| message in A bottle  | easy | 50 | digitaL forensics |
-| posT number  | medium | 100 | Open Source Cyber Intelligence
-| purE luck  | basic | 25 | malwarE reversE engineering |
-| search iN trash  | easy | 50 | digitaL forensics |
-| they are many  | medium | 100 | malwarE reversE engineering |
-| this iS sparta  | easy | 50 | weB information |
+| Dark Project  | Medium | 100 | Web Information |
+| Get Rid Of Them All  | Easy | 50 | Malware Reverse Engineering |
+| Hack The App  | Hard | 200 | Malware Reverse Engineering |
+| Intercept  | Basic | 25 | General Information | Man-in-the-middle attack | MITM |
+| Message In A Bottle  | Easy | 50 | Digital Forensics |
+| Post Number  | Medium | 100 | Open Source Cyber Intelligence
+| Pure Luck  | Basic | 25 | Malware Reverse Engineering |
+| Search In Trash  | Easy | 50 | Digital Forensics |
+| They Are Many  | Medium | 100 | Malware Reverse Engineering |
+| This Is Sparta  | Easy | 50 | Web Information |
 
 
- Final: Egypt National Cyber Security CTF 2017
+ Final: Egypt National Cyber Security Ctf 2017
 ==============================================
 
-| name | level | points | category | status | flag |
+| Name | Level | Points | Category | Status | Flag |
 |:-:|:-:|:-:|:-:|:-:|:-:|
-| android101  | medium | 100 | malwarE reversE engineering |
-| dumpsteR diving  | easy | 50 | generaL information |
-| Is it really here?  | hard | 200 | malwarE reversE engineering |
-| modifY code  | easy | 50 | generaL information |
-| packet abomination  | medium | 100 | digitaL forensics |
-| rogueone  | hard | 200 | digitaL forensics |
-| share the ideas  | medium | 100 | weB information |
-| smash thE code  | medium | 100 | weB information |
-| weirD blog  | hard | 200 | weB information |
+| Android101  | Medium | 100 | Malware Reverse Engineering |
+| Dumpster Diving  | Easy | 50 | General Information |
+| Is It Really Here?  | Hard | 200 | Malware Reverse Engineering |
+| Modify Code  | Easy | 50 | General Information |
+| Packet Abomination  | Medium | 100 | Digital Forensics |
+| Rogueone  | Hard | 200 | Digital Forensics |
+| Share The Ideas  | Medium | 100 | Web Information |
+| Smash The Code  | Medium | 100 | Web Information |
+| Weird Blog  | Hard | 200 | Web Information |
 
 
- Final: UAE National Cyber Security CTF 2017
+ Final: Uae National Cyber Security Ctf 2017
 ==============================================
 
-| name | level | points | category | status | flag |
+| Name | Level | Points | Category | Status | Flag |
 |:-:|:-:|:-:|:-:|:-:|:-:|
-| bruteforcE Me  | easy | 50 | malwarE reversE engineering |
-| comE play with me  | hard | 200 | malwarE reversE engineering |
-| Do you trust senders  | easy | 50 | generaL information |
-| fileS leakage  | medium | 100 | digitaL forensics |
-| functionS everywhere  | medium | 100 | malwarE reversE engineering |
-| iaM legend  | easy | 50 | weB information |
+| Bruteforce Me  | Easy | 50 | Malware Reverse Engineering |
+| Come Play With Me  | Hard | 200 | Malware Reverse Engineering |
+| Do You Trust Senders  | Easy | 50 | General Information |
+| Files Leakage  | Medium | 100 | Digital Forensics |
+| Functions Everywhere  | Medium | 100 | Malware Reverse Engineering |
+| Iam Legend  | Easy | 50 | Web Information |
 
 
- Oman National Cyber Security CTF Quals 2017
+ Oman National Cyber Security Ctf Quals 2017
 ==============================================
 
-| name | level | points | category | status | flag |
+| Name | Level | Points | Category | Status | Flag |
 |:-:|:-:|:-:|:-:|:-:|:-:|
-| cooL namE effect  | easy | 50 | weB information |
-| crash  | easy | 50 | generaL information |
-| GUI I  | easy | 50 | malwarE reversE engineering |
-| joiN team  | medium | 100 | weB information |
-| JTAG dump  | medium | 100 | digitaL forensics |
-| jumpinG pixels  | easy | 50 | malwarE reversE engineering |
-| packet abomination  | medium | 100 | digitaL forensics |
+| Cool Name Effect  | Easy | 50 | Web Information |
+| Crash  | Easy | 50 | General Information |
+| Gui I  | Easy | 50 | Malware Reverse Engineering |
+| Join Team  | Medium | 100 | Web Information |
+| Jtag Dump  | Medium | 100 | Digital Forensics |
+| Jumping Pixels  | Easy | 50 | Malware Reverse Engineering |
+| Packet Abomination  | Medium | 100 | Digital Forensics |
 
 
- Final: Oman National Cyber Security CTF 2017
+ Final: Oman National Cyber Security Ctf 2017
 ==============================================
 
-| name | level | points | category | status | flag |
+| Name | Level | Points | Category | Status | Flag |
 |:-:|:-:|:-:|:-:|:-:|:-:|
-| developer locks  | easy | 50 | malwarE reversE engineering |
-| encrypteD database  | easy | 50 | weB information |
-| My box  | basic | 25 | generaL information |
-| thE restricteD sessions  | medium | 100 | weB information |
-| you have been hacked  | easy | 50 | digitaL forensics |
+| Developer Locks  | Easy | 50 | Malware Reverse Engineering |
+| Encrypted Database  | Easy | 50 | Web Information |
+| My Box  | Basic | 25 | General Information |
+| The Restricted Sessions  | Medium | 100 | Web Information |
+| You Have Been Hacked  | Easy | 50 | Digital Forensics |
 
 
- Mini CTF - Riseup
+ Mini Ctf - Riseup
 ==============================================
 
-| name | level | points | category | status | flag |
+| Name | Level | Points | Category | Status | Flag |
 |:-:|:-:|:-:|:-:|:-:|:-:|
-| My box  | basic | 25 | generaL information |
-| thE restricteD sessions  | medium | 100 | weB information |
-| who am i?  | easy | 50 | weB information |
+| My Box  | Basic | 25 | General Information |
+| The Restricted Sessions  | Medium | 100 | Web Information |
+| Who Am I?  | Easy | 50 | Web Information |
 
 
- Arab Regional Cyber Security CTF 2017
+ Arab Regional Cyber Security Ctf 2017
 ==============================================
 
-| name | level | points | category | status | flag |
+| Name | Level | Points | Category | Status | Flag |
 |:-:|:-:|:-:|:-:|:-:|:-:|
-| android 2  | hard | 200 | malwarE reversE engineering |
-| araB dumpsteR diving  | medium | 100 | generaL information |
-| can you see me  | medium | 100 | malwarE reversE engineering |
-| capture  | easy | 50 | generaL information |
-| catch me if you can  | medium | 100 | weB information |
-| raW disk  | medium | 100 | digitaL forensics |
-| searching for the cookie  | medium | 100 | weB information |
-| who is admin  | medium | 100 | weB information |
-| wronG token  | hard | 200 | weB information |
+| Android 2  | Hard | 200 | Malware Reverse Engineering |
+| Arab Dumpster Diving  | Medium | 100 | General Information |
+| Can You See Me  | Medium | 100 | Malware Reverse Engineering |
+| Capture  | Easy | 50 | General Information |
+| Catch Me If You Can  | Medium | 100 | Web Information |
+| Raw Disk  | Medium | 100 | Digital Forensics |
+| Searching For The Cookie  | Medium | 100 | Web Information |
+| Who Is Admin  | Medium | 100 | Web Information |
+| Wrong Token  | Hard | 200 | Web Information |
 
 
- Quals: UAE & EGY National Cyber Security CTF 2018
+ Quals: Uae & Egy National Cyber Security Ctf 2018
 ==============================================
 
-| name | level | points | category | status | flag |
+| Name | Level | Points | Category | Status | Flag |
 |:-:|:-:|:-:|:-:|:-:|:-:|
-| blacK inc.  | medium | 100 | weB information |
-| bluE inc.  | easy | 50 | weB information |
-| checK MY USB  | medium | 100 | digitaL forensics |
-| imaginizeR pins  | hard | 200 | digitaL forensics |
-| postbase  | easy | 50 | cryptography |
-| preciouS vulnerability  | easy | 50 | generaL information |
-| secreT box  | medium | 100 | malwarE reversE engineering |
-| string highlighter  | hard | 200 | weB information |
-| teasinG button  | medium | 100 | malwarE reversE engineering |
+| Black Inc.  | Medium | 100 | Web Information |
+| Blue Inc.  | Easy | 50 | Web Information |
+| Check My Usb  | Medium | 100 | Digital Forensics |
+| Imaginizer Pins  | Hard | 200 | Digital Forensics |
+| Postbase  | Easy | 50 | Cryptography |
+| Precious Vulnerability  | Easy | 50 | General Information |
+| Secret Box  | Medium | 100 | Malware Reverse Engineering |
+| String Highlighter  | Hard | 200 | Web Information |
+| Teasing Button  | Medium | 100 | Malware Reverse Engineering |
 
 
- Continuous CTF for Beginners
+ Continuous Ctf For Beginners
 ==============================================
 
-| name | level | points | category | status | flag |
+| Name | Level | Points | Category | Status | Flag |
 |:-:|:-:|:-:|:-:|:-:|:-:|
-| admin has the power  | easy | 50 | weB information |
-| back tO history  | basic | 25 | generaL information |
-| businesS gathering  | basic | 25 | generaL information |
-| contribute  | basic | 25 | generaL information |
-| crack thE hash  | basic | 25 | cryptography |
-| eye oF sauron  | easy | 50 | malwarE reversE engineering |
-| G&P list  | basic | 25 | digitaL forensics |
-| getting started  | easy | 50 | malwarE reversE engineering |
-| hackerS gathering  | easy | 25 | generaL information |
-| hiddeN message  | basic | 25 | digitaL forensics |
-| LOTR herO mania  | easy | 50 | malwarE reversE engineering |
-| paY Me  | basic | 25 | generaL information |
-| this iS sparta  | easy | 50 | weB information |
+| Admin Has The Power  | Easy | 50 | Web Information |
+| Back To History  | Basic | 25 | General Information |
+| Business Gathering  | Basic | 25 | General Information |
+| Contribute  | Basic | 25 | General Information |
+| Crack The Hash  | Basic | 25 | Cryptography |
+| Eye Of Sauron  | Easy | 50 | Malware Reverse Engineering |
+| G&p List  | Basic | 25 | Digital Forensics |
+| Getting Started  | Easy | 50 | Malware Reverse Engineering |
+| Hackers Gathering  | Easy | 25 | General Information |
+| Hidden Message  | Basic | 25 | Digital Forensics |
+| Lotr Hero Mania  | Easy | 50 | Malware Reverse Engineering |
+| Pay Me  | Basic | 25 | General Information |
+| This Is Sparta  | Easy | 50 | Web Information |
 
 
- Final: UAE National Cyber Security CTF 2018
+ Final: Uae National Cyber Security Ctf 2018
  ==============================================
 
-| name | level | points | category | status | flag |
+| Name | Level | Points | Category | Status | Flag |
 |:-:|:-:|:-:|:-:|:-:|:-:|
-| biG number  | medium | 100 | weB information |
-| easY message  | easy | 50 | weB information |
-| ezez keygen  | medium | 100 | malwarE reversE engineering |
-| listeN carefully  | hard | 200 | digitaL forensics |
-| officE word  | medium | 100 | digitaL forensics |
-| OTMP  | medium | 100 | cryptography |
-| owlS blog  | medium | 100 | weB information |
-| SCADA  | easy | 50 | generaL information |
+| Big Number  | Medium | 100 | Web Information |
+| Easy Message  | Easy | 50 | Web Information |
+| Ezez Keygen  | Medium | 100 | Malware Reverse Engineering |
+| Listen Carefully  | Hard | 200 | Digital Forensics |
+| Office Word  | Medium | 100 | Digital Forensics |
+| Otmp  | Medium | 100 | Cryptography |
+| Owls Blog  | Medium | 100 | Web Information |
+| Scada  | Easy | 50 | General Information |
 
 
- Final: Egypt National Cyber Security CTF 2018
+ Final: Egypt National Cyber Security Ctf 2018
  ==============================================
 
-| name | level | points | category | status | flag |
+| Name | Level | Points | Category | Status | Flag |
 |:-:|:-:|:-:|:-:|:-:|:-:|
-| bypass the world  | medium | 100 | weB information |
-| cybErtalentS army  | easy | 50 | weB information |
-| egyptiaN king  | easy | 50 | generaL information |
-| ExTr3mE IMagination  | hard | 200 | digitaL forensics |
-| genfei  | medium | 100 | cryptography |
-| hellO itS Me  | hard | 200 | weB information |
-| i love music  | medium | 100 | digitaL forensics |
-| lineq  | medium | 100 | cryptography |
-| matH master  | medium | 100 | malwarE reversE engineering |
-| round anD round  | medium | 100 | malwarE reversE engineering |
+| Bypass The World  | Medium | 100 | Web Information |
+| Cybertalents Army  | Easy | 50 | Web Information |
+| Egyptian King  | Easy | 50 | General Information |
+| Extr3me Imagination  | Hard | 200 | Digital Forensics |
+| Genfei  | Medium | 100 | Cryptography |
+| Hello Its Me  | Hard | 200 | Web Information |
+| I Love Music  | Medium | 100 | Digital Forensics |
+| Lineq  | Medium | 100 | Cryptography |
+| Math Master  | Medium | 100 | Malware Reverse Engineering |
+| Round And Round  | Medium | 100 | Malware Reverse Engineering |
 
 
- Online Recruitment CTF: Application Security Engineer
+ Online Recruitment Ctf: Application Security Engineer
 ==============================================
 
-| name | level | points | category | status | flag |
+| Name | Level | Points | Category | Status | Flag |
 |:-:|:-:|:-:|:-:|:-:|:-:|
-| applicatioN securitY standard  | easy | 50 | generaL information |
-| booK lover  | hard | 200 | weB information |
-| contribute  | basic | 25 | generaL information |
-| cooL namE effect  | easy | 50 | weB information |
-| encoding  | easy | 50 | generaL information |
-| excel  | easy | 50 | generaL information |
-| htmlentities  | easy | 50 | generaL information |
-| owlS blog  | medium | 100 | weB information |
+| Application Security Standard  | Easy | 50 | General Information |
+| Book Lover  | Hard | 200 | Web Information |
+| Contribute  | Basic | 25 | General Information |
+| Cool Name Effect  | Easy | 50 | Web Information |
+| Encoding  | Easy | 50 | General Information |
+| Excel  | Easy | 50 | General Information |
+| Htmlentities  | Easy | 50 | General Information |
+| Owls Blog  | Medium | 100 | Web Information |
 
 
- Quals: Morocco & Sudan National Cyber Security CTF 2018
+ Quals: Morocco & Sudan National Cyber Security Ctf 2018
 ==============================================
 
-| name | level | points | category | status | flag |
+| Name | Level | Points | Category | Status | Flag |
 |:-:|:-:|:-:|:-:|:-:|:-:|
-| cheers  | easy | 50 | weB information |
-| datA carving  | medium | 100 | digitaL forensics |
-| erroR code  | easy | 50 | digitaL forensics |
-| ezez keygen2  | medium | 100 | malwarE reversE engineering |
-| privacy  | easy | 50 | generaL information |
-| reD stonE admin  | hard | 200 | cryptography |
-| toP secreT email  | medium | 100 | weB information |
+| Cheers  | Easy | 50 | Web Information |
+| Data Carving  | Medium | 100 | Digital Forensics |
+| Error Code  | Easy | 50 | Digital Forensics |
+| Ezez Keygen2  | Medium | 100 | Malware Reverse Engineering |
+| Privacy  | Easy | 50 | General Information |
+| Red Stone Admin  | Hard | 200 | Cryptography |
+| Top Secret Email  | Medium | 100 | Web Information |
 
 
  Lovely Professional University Techathon
 ==============================================
 
-| name | level | points | category | status | flag |
+| Name | Level | Points | Category | Status | Flag |
 |:-:|:-:|:-:|:-:|:-:|:-:|
-| blacK inc.  | medium | 100 | weB information |
-| bluE inc.  | easy | 50 | weB information |
-| bruteforcE Me  | easy | 50 | malwarE reversE engineering |
-| darK project  | medium | 100 | weB information |
-| egyptiaN king  | easy | 50 | generaL information |
-| genfei  | medium | 100 | cryptography |
-| hack thE app  | hard | 200 | malwarE reversE engineering |
-| i love music  | medium | 100 | digitaL forensics |
-| intercept  | basic | 25 | generaL information |
-| lineq  | medium | 100 | cryptography |
-| matH master  | medium | 100 | malwarE reversE engineering |
-| message in A bottle  | easy | 50 | digitaL forensics |
-| modifY code  | easy | 50 | generaL information |
-| My box  | basic | 25 | generaL information |
-| OTMP  | medium | 100 | cryptography |
-| postbase  | easy | 50 | cryptography |
-| preciouS vulnerability  | easy | 50 | generaL information |
-| string highlighter  | hard | 200 | weB information |
-| teasinG button  | medium | 100 | malwarE reversE engineering |
+| Black Inc.  | Medium | 100 | Web Information |
+| Blue Inc.  | Easy | 50 | Web Information |
+| Bruteforce Me  | Easy | 50 | Malware Reverse Engineering |
+| Dark Project  | Medium | 100 | Web Information |
+| Egyptian King  | Easy | 50 | General Information |
+| Genfei  | Medium | 100 | Cryptography |
+| Hack The App  | Hard | 200 | Malware Reverse Engineering |
+| I Love Music  | Medium | 100 | Digital Forensics |
+| Intercept  | Basic | 25 | General Information |
+| Lineq  | Medium | 100 | Cryptography |
+| Math Master  | Medium | 100 | Malware Reverse Engineering |
+| Message In A Bottle  | Easy | 50 | Digital Forensics |
+| Modify Code  | Easy | 50 | General Information |
+| My Box  | Basic | 25 | General Information |
+| Otmp  | Medium | 100 | Cryptography |
+| Postbase  | Easy | 50 | Cryptography |
+| Precious Vulnerability  | Easy | 50 | General Information |
+| String Highlighter  | Hard | 200 | Web Information |
+| Teasing Button  | Medium | 100 | Malware Reverse Engineering |
 
 
 
- Final: Morocco National Cyber Security CTF 2018
+ Final: Morocco National Cyber Security Ctf 2018
 ==============================================
 
-| name | level | points | category | status | flag |
+| Name | Level | Points | Category | Status | Flag |
 |:-:|:-:|:-:|:-:|:-:|:-:|
-| admin gate first  | medium | 100 | weB information |
-| arithmetic  | medium | 100 | cryptography |
-| catch me  | medium | 100 | malwarE reversE engineering |
-| findinG voice  | medium | 100 | digitaL forensics |
-| literally  | hard | 200 | weB information |
-| reward  | easy | 50 | generaL information |
-| screenshot  | hard | 200 | weB information |
-| transposed  | medium | 100 | cryptography |
+| Admin Gate First  | Medium | 100 | Web Information |
+| Arithmetic  | Medium | 100 | Cryptography |
+| Catch Me  | Medium | 100 | Malware Reverse Engineering |
+| Finding Voice  | Medium | 100 | Digital Forensics |
+| Literally  | Hard | 200 | Web Information |
+| Reward  | Easy | 50 | General Information |
+| Screenshot  | Hard | 200 | Web Information |
+| Transposed  | Medium | 100 | Cryptography |
 
 
 
- Final: Sudan National Cyber Security CTF Competition 2018
+ Final: Sudan National Cyber Security Ctf Competition 2018
 ==============================================
 
-| name | level | points | category | status | flag |
+| Name | Level | Points | Category | Status | Flag |
 |:-:|:-:|:-:|:-:|:-:|:-:|
-| admin gate second  | hard | 200 | weB information |
-| catch me  | medium | 100 | malwarE reversE engineering |
-| cloak anD dagger  | medium | 100 | malwarE reversE engineering |
-| findinG voice  | medium | 100 | digitaL forensics |
-| imagE catch  | medium | 100 | digitaL forensics |
-| inbox  | medium | 100 | weB information |
-| pressure  | medium | 100 | cryptography |
-| record  | easy | 50 | generaL information |
-| secreT browser  | medium | 100 | weB information |
+| Admin Gate Second  | Hard | 200 | Web Information |
+| Catch Me  | Medium | 100 | Malware Reverse Engineering |
+| Cloak And Dagger  | Medium | 100 | Malware Reverse Engineering |
+| Finding Voice  | Medium | 100 | Digital Forensics |
+| Image Catch  | Medium | 100 | Digital Forensics |
+| Inbox  | Medium | 100 | Web Information |
+| Pressure  | Medium | 100 | Cryptography |
+| Record  | Easy | 50 | General Information |
+| Secret Browser  | Medium | 100 | Web Information |
 
 
- ITI Summer Training Assessment
+ Iti Summer Training Assessment
 ==============================================
 
-| name | level | points | category | status | flag |
+| Name | Level | Points | Category | Status | Flag |
 |:-:|:-:|:-:|:-:|:-:|:-:|
-| admin has the power  | easy | 50 | weB information |
-| back tO history  | basic | 25 | generaL information |
-| businesS gathering  | basic | 25 | generaL information |
-| capture  | easy | 50 | generaL information |
-| contribute  | basic | 25 | generaL information |
-| crash  | easy | 50 | generaL information |
-| G&P list  | basic | 25 | digitaL forensics |
-| getting started  | easy | 50 | malwarE reversE engineering |
-| hackerS gathering  | easy | 25 | generaL information |
-| My box  | basic | 25 | generaL information |
-| paY Me  | basic | 25 | generaL information |
-| record  | easy | 50 | generaL information |
-| scan  | easy | 50 | generaL information |
+| Admin Has The Power  | Easy | 50 | Web Information |
+| Back To History  | Basic | 25 | General Information |
+| Business Gathering  | Basic | 25 | General Information |
+| Capture  | Easy | 50 | General Information |
+| Contribute  | Basic | 25 | General Information |
+| Crash  | Easy | 50 | General Information |
+| G&p List  | Basic | 25 | Digital Forensics |
+| Getting Started  | Easy | 50 | Malware Reverse Engineering |
+| Hackers Gathering  | Easy | 25 | General Information |
+| My Box  | Basic | 25 | General Information |
+| Pay Me  | Basic | 25 | General Information |
+| Record  | Easy | 50 | General Information |
+| Scan  | Easy | 50 | General Information |
 
 
- Quals: Tunisia & Jordan National Cyber Security CTF 2018
+ Quals: Tunisia & Jordan National Cyber Security Ctf 2018
 ==============================================
 
-| name | level | points | category | status | flag |
+| Name | Level | Points | Category | Status | Flag |
 |:-:|:-:|:-:|:-:|:-:|:-:|
-| hashable  | medium | 100 | weB information |
-| imagE catch  | medium | 100 | digitaL forensics |
-| softwaReCO registratioN V2  | medium | 100 | digitaL forensics |
-| stupiD rand  | medium | 100 | malwarE reversE engineering |
-| tears  | easy | 50 | generaL information |
-| transposed  | medium | 100 | cryptography |
-| weirD blog  | hard | 200 | weB information |
+| Hashable  | Medium | 100 | Web Information |
+| Image Catch  | Medium | 100 | Digital Forensics |
+| Softwareco Registration V2  | Medium | 100 | Digital Forensics |
+| Stupid Rand  | Medium | 100 | Malware Reverse Engineering |
+| Tears  | Easy | 50 | General Information |
+| Transposed  | Medium | 100 | Cryptography |
+| Weird Blog  | Hard | 200 | Web Information |
 
 
- Jordan National Cyber Security CTF 2018
+ Jordan National Cyber Security Ctf 2018
 ==============================================
 
-| name | level | points | category | status | flag |
+| Name | Level | Points | Category | Status | Flag |
 |:-:|:-:|:-:|:-:|:-:|:-:|
-| baD lizard  | medium | 100 | digitaL forensics |
-| biG number  | medium | 100 | weB information |
-| elementary  | medium | 100 | malwarE reversE engineering |
-| encrypteD cookies  | easy | 50 | weB information |
-| hide me  | easy | 50 | generaL information |
-| musiC chairs  | medium | 100 | digitaL forensics |
-| officE word  | medium | 100 | digitaL forensics |
-| refereR valley  | medium | 100 | weB information |
-| rounD trip  | hard | 200 | malwarE reversE engineering |
-| saassrarr  | medium | 100 | cryptography |
-| searcH enginE error  | hard | 200 | weB information |
-| simple reverse  | medium | 100 | malwarE reversE engineering |
+| Bad Lizard  | Medium | 100 | Digital Forensics |
+| Big Number  | Medium | 100 | Web Information |
+| Elementary  | Medium | 100 | Malware Reverse Engineering |
+| Encrypted Cookies  | Easy | 50 | Web Information |
+| Hide Me  | Easy | 50 | General Information |
+| Music Chairs  | Medium | 100 | Digital Forensics |
+| Office Word  | Medium | 100 | Digital Forensics |
+| Referer Valley  | Medium | 100 | Web Information |
+| Round Trip  | Hard | 200 | Malware Reverse Engineering |
+| Saassrarr  | Medium | 100 | Cryptography |
+| Search Engine Error  | Hard | 200 | Web Information |
+| Simple Reverse  | Medium | 100 | Malware Reverse Engineering |
 
 
- ITI Junior
+ Iti Junior
 ==============================================
 
-| name | level | points | category | status | flag |
+| Name | Level | Points | Category | Status | Flag |
 |:-:|:-:|:-:|:-:|:-:|:-:|
-| baD lizard  | medium | 100 | digitaL forensics |
-| musiC chairs  | medium | 100 | digitaL forensics |
-| My box  | basic | 25 | generaL information |
+| Bad Lizard  | Medium | 100 | Digital Forensics |
+| Music Chairs  | Medium | 100 | Digital Forensics |
+| My Box  | Basic | 25 | General Information |
 
 
 
- ITI
+ Iti
 ==============================================
 
-| name | level | points | category | status | flag |
+| Name | Level | Points | Category | Status | Flag |
 |:-:|:-:|:-:|:-:|:-:|:-:|
-| admin has the power  | easy | 50 | weB information |
-| back tO history  | basic | 25 | generaL information |
-| contribute  | basic | 25 | generaL information |
-| founder  | basic | 25 | generaL information |
-| G&P list  | basic | 25 | digitaL forensics |
-| message in A bottle  | easy | 50 | digitaL forensics |
-| My box  | basic | 25 | generaL information |
-| paY Me  | basic | 25 | generaL information |
-| posT number  | medium | 100 | Open Source Cyber Intelligence
-| record  | easy | 50 | generaL information |
-| scan  | easy | 50 | generaL information |
+| Admin Has The Power  | Easy | 50 | Web Information |
+| Back To History  | Basic | 25 | General Information |
+| Contribute  | Basic | 25 | General Information |
+| Founder  | Basic | 25 | General Information |
+| G&p List  | Basic | 25 | Digital Forensics |
+| Message In A Bottle  | Easy | 50 | Digital Forensics |
+| My Box  | Basic | 25 | General Information |
+| Pay Me  | Basic | 25 | General Information |
+| Post Number  | Medium | 100 | Open Source Cyber Intelligence
+| Record  | Easy | 50 | General Information |
+| Scan  | Easy | 50 | General Information |
 
 
 
 
- ITI Junior final
+ Iti Junior Final
 ==============================================
 
-| name | level | points | category | status | flag |
+| Name | Level | Points | Category | Status | Flag |
 |:-:|:-:|:-:|:-:|:-:|:-:|
-| baD employee  | easy | 50 | Open Source Cyber Intelligence
-| cheers  | easy | 50 | weB information |
-| cybErtalentS army  | easy | 50 | weB information |
-| GO back  | easy | 50 | Open Source Cyber Intelligence
-| hide me  | easy | 50 | generaL information |
-| RSA  | easy | 50 | cryptography |
-| tears  | easy | 50 | generaL information |
-| where is the password?  | medium | 100 | networK information |
+| Bad Employee  | Easy | 50 | Open Source Cyber Intelligence
+| Cheers  | Easy | 50 | Web Information |
+| Cybertalents Army  | Easy | 50 | Web Information |
+| Go Back  | Easy | 50 | Open Source Cyber Intelligence
+| Hide Me  | Easy | 50 | General Information |
+| Rsa  | Easy | 50 | Cryptography |
+| Tears  | Easy | 50 | General Information |
+| Where Is The Password?  | Medium | 100 | Network Information |
 
 
 
  Algeria Hacking Weekend
 ==============================================
 
-| name | level | points | category | status | flag |
+| Name | Level | Points | Category | Status | Flag |
 |:-:|:-:|:-:|:-:|:-:|:-:|
-| api  | hard | 200 | weB information |
-| cash  | easy | 50 | generaL information |
-| cheers  | easy | 50 | weB information |
-| elementary  | medium | 100 | malwarE reversE engineering |
-| hsah  | medium | 100 | cryptography |
-| rounD trip  | hard | 200 | malwarE reversE engineering |
-| saassrarr  | medium | 100 | cryptography |
-| searcH enginE error  | hard | 200 | weB information |
-| softwaReCO password  | medium | 100 | malwarE reversE engineering |
-| training  | medium | 100 | malwarE reversE engineering |
-| unlock the pattern  | hard | 200 | digitaL forensics |
+| Api  | Hard | 200 | Web Information |
+| Cash  | Easy | 50 | General Information |
+| Cheers  | Easy | 50 | Web Information |
+| Elementary  | Medium | 100 | Malware Reverse Engineering |
+| Hsah  | Medium | 100 | Cryptography |
+| Round Trip  | Hard | 200 | Malware Reverse Engineering |
+| Saassrarr  | Medium | 100 | Cryptography |
+| Search Engine Error  | Hard | 200 | Web Information |
+| Softwareco Password  | Medium | 100 | Malware Reverse Engineering |
+| Training  | Medium | 100 | Malware Reverse Engineering |
+| Unlock The Pattern  | Hard | 200 | Digital Forensics |
 
 
 
- Ain Shams University CTF Competition
+ Ain Shams University Ctf Competition
 ==============================================
 
-| name | level | points | category | status | flag |
+| Name | Level | Points | Category | Status | Flag |
 |:-:|:-:|:-:|:-:|:-:|:-:|
-| catch me  | medium | 100 | malwarE reversE engineering |
-| cheers  | easy | 50 | weB information |
-| encrypteD cookies  | easy | 50 | weB information |
-| fileS leakage  | medium | 100 | digitaL forensics |
-| hide me  | easy | 50 | generaL information |
-| one shot  | medium | 100 | Exploitation
-| RSA  | easy | 50 | cryptography |
-| where is the password?  | medium | 100 | networK information |
+| Catch Me  | Medium | 100 | Malware Reverse Engineering |
+| Cheers  | Easy | 50 | Web Information |
+| Encrypted Cookies  | Easy | 50 | Web Information |
+| Files Leakage  | Medium | 100 | Digital Forensics |
+| Hide Me  | Easy | 50 | General Information |
+| One Shot  | Medium | 100 | Exploitation
+| Rsa  | Easy | 50 | Cryptography |
+| Where Is The Password?  | Medium | 100 | Network Information |
 
 
 
- Menoufia University CTF Competition
+ Menoufia University Ctf Competition
 ==============================================
 
-| name | level | points | category | status | flag |
+| Name | Level | Points | Category | Status | Flag |
 |:-:|:-:|:-:|:-:|:-:|:-:|
-| blacK inc.  | medium | 100 | weB information |
-| bruteforcE Me  | easy | 50 | malwarE reversE engineering |
-| encrypteD cookies  | easy | 50 | weB information |
-| erroR code  | easy | 50 | digitaL forensics |
-| ezez keygen  | medium | 100 | malwarE reversE engineering |
-| My box  | basic | 25 | generaL information |
-| officE word  | medium | 100 | digitaL forensics |
-| one shot  | medium | 100 | Exploitation
-| RSA  | easy | 50 | cryptography |
-| they are many  | medium | 100 | malwarE reversE engineering |
-| where is the flag  | easy | 50 | weB information |
+| Black Inc.  | Medium | 100 | Web Information |
+| Bruteforce Me  | Easy | 50 | Malware Reverse Engineering |
+| Encrypted Cookies  | Easy | 50 | Web Information |
+| Error Code  | Easy | 50 | Digital Forensics |
+| Ezez Keygen  | Medium | 100 | Malware Reverse Engineering |
+| My Box  | Basic | 25 | General Information |
+| Office Word  | Medium | 100 | Digital Forensics |
+| One Shot  | Medium | 100 | Exploitation
+| Rsa  | Easy | 50 | Cryptography |
+| They Are Many  | Medium | 100 | Malware Reverse Engineering |
+| Where Is The Flag  | Easy | 50 | Web Information |
 
 
- HITB2018DXB Pre-Conf CTF
+ Hitb2018dxb Pre-conf Ctf
 ==============================================
 
-| name | level | points | category | status | flag |
+| Name | Level | Points | Category | Status | Flag |
 |:-:|:-:|:-:|:-:|:-:|:-:|
-| admin gate second  | hard | 200 | weB information |
-| catch me if you can  | medium | 100 | weB information |
-| darK project  | medium | 100 | weB information |
-| datA carving  | medium | 100 | digitaL forensics |
-| encoding  | easy | 50 | generaL information |
-| math is your friend  | hard | 200 | malwarE reversE engineering |
-| matH master  | medium | 100 | malwarE reversE engineering |
-| messagE box  | medium | 100 | Exploitation
-| musiC chairs  | medium | 100 | digitaL forensics |
-| pressure  | medium | 100 | cryptography |
-| who am i?  | easy | 50 | weB information |
+| Admin Gate Second  | Hard | 200 | Web Information |
+| Catch Me If You Can  | Medium | 100 | Web Information |
+| Dark Project  | Medium | 100 | Web Information |
+| Data Carving  | Medium | 100 | Digital Forensics |
+| Encoding  | Easy | 50 | General Information |
+| Math Is Your Friend  | Hard | 200 | Malware Reverse Engineering |
+| Math Master  | Medium | 100 | Malware Reverse Engineering |
+| Message Box  | Medium | 100 | Exploitation
+| Music Chairs  | Medium | 100 | Digital Forensics |
+| Pressure  | Medium | 100 | Cryptography |
+| Who Am I?  | Easy | 50 | Web Information |
 
 
 
- Suez University CTF Competition
+ Suez University Ctf Competition
 ==============================================
 
-| name | level | points | category | status | flag |
+| Name | Level | Points | Category | Status | Flag |
 |:-:|:-:|:-:|:-:|:-:|:-:|
-| byTemaycry  | medium | 100 | malwarE reversE engineering |
-| coloR space  | medium | 100 | digitaL forensics |
-| encipher  | easy | 50 | malwarE reversE engineering |
-| encoding  | easy | 50 | generaL information |
-| frequency  | medium | 100 | cryptography |
-| office  | easy | 50 | digitaL forensics |
-| reD alert  | easy | 50 | weB information |
-| the dark lord  | medium | 100 | weB information |
+| Bytemaycry  | Medium | 100 | Malware Reverse Engineering |
+| Color Space  | Medium | 100 | Digital Forensics |
+| Encipher  | Easy | 50 | Malware Reverse Engineering |
+| Encoding  | Easy | 50 | General Information |
+| Frequency  | Medium | 100 | Cryptography |
+| Office  | Easy | 50 | Digital Forensics |
+| Red Alert  | Easy | 50 | Web Information |
+| The Dark Lord  | Medium | 100 | Web Information |
 
 
- Mansoura University CTF Competition
+ Mansoura University Ctf Competition
 ==============================================
 
-| name | level | points | category | status | flag |
+| Name | Level | Points | Category | Status | Flag |
 |:-:|:-:|:-:|:-:|:-:|:-:|
-| fortunE teller  | medium | 100 | Exploitation
-| frequency  | medium | 100 | cryptography |
-| i love music  | medium | 100 | digitaL forensics |
-| privacy  | easy | 50 | generaL information |
-| reD alert  | easy | 50 | weB information |
-| the dark lord  | medium | 100 | weB information |
-| where is the password?  | medium | 100 | networK information |
+| Fortune Teller  | Medium | 100 | Exploitation
+| Frequency  | Medium | 100 | Cryptography |
+| I Love Music  | Medium | 100 | Digital Forensics |
+| Privacy  | Easy | 50 | General Information |
+| Red Alert  | Easy | 50 | Web Information |
+| The Dark Lord  | Medium | 100 | Web Information |
+| Where Is The Password?  | Medium | 100 | Network Information |
 
 
 
- MIU CTF Competition
+ Miu Ctf Competition
 ==============================================
 
-| name | level | points | category | status | flag |
+| Name | Level | Points | Category | Status | Flag |
 |:-:|:-:|:-:|:-:|:-:|:-:|
-| encrypteD cookies  | easy | 50 | weB information |
-| ezez keygen  | medium | 100 | malwarE reversE engineering |
-| fileS leakage  | medium | 100 | digitaL forensics |
-| imagE catch  | medium | 100 | digitaL forensics |
-| My box  | basic | 25 | generaL information |
-| postbase  | easy | 50 | cryptography |
-| refereR valley  | medium | 100 | weB information |
-| RSA  | easy | 50 | cryptography |
-| who am i?  | easy | 50 | weB information |
+| Encrypted Cookies  | Easy | 50 | Web Information |
+| Ezez Keygen  | Medium | 100 | Malware Reverse Engineering |
+| Files Leakage  | Medium | 100 | Digital Forensics |
+| Image Catch  | Medium | 100 | Digital Forensics |
+| My Box  | Basic | 25 | General Information |
+| Postbase  | Easy | 50 | Cryptography |
+| Referer Valley  | Medium | 100 | Web Information |
+| Rsa  | Easy | 50 | Cryptography |
+| Who Am I?  | Easy | 50 | Web Information |
 
 
 
- Lebanese American University CTF
+ Lebanese American University Ctf
 ==============================================
 
-| name | level | points | category | status | flag |
+| Name | Level | Points | Category | Status | Flag |
 |:-:|:-:|:-:|:-:|:-:|:-:|
-| encrypteD cookies  | easy | 50 | weB information |
-| ezez keygen  | medium | 100 | malwarE reversE engineering |
-| fileS leakage  | medium | 100 | digitaL forensics |
-| imagE catch  | medium | 100 | digitaL forensics |
-| My box  | basic | 25 | generaL information |
-| postbase  | easy | 50 | cryptography |
-| refereR valley  | medium | 100 | weB information |
-| RSA  | easy | 50 | cryptography |
-| who am i?  | easy | 50 | weB information |
+| Encrypted Cookies  | Easy | 50 | Web Information |
+| Ezez Keygen  | Medium | 100 | Malware Reverse Engineering |
+| Files Leakage  | Medium | 100 | Digital Forensics |
+| Image Catch  | Medium | 100 | Digital Forensics |
+| My Box  | Basic | 25 | General Information |
+| Postbase  | Easy | 50 | Cryptography |
+| Referer Valley  | Medium | 100 | Web Information |
+| Rsa  | Easy | 50 | Cryptography |
+| Who Am I?  | Easy | 50 | Web Information |
 
 
 
- AAST Alex Campus CTF Competition
+ Aast Alex Campus Ctf Competition
 ==============================================
 
-| name | level | points | category | status | flag |
+| Name | Level | Points | Category | Status | Flag |
 |:-:|:-:|:-:|:-:|:-:|:-:|
-| byTemaycry  | medium | 100 | malwarE reversE engineering |
-| cash  | easy | 50 | generaL information |
-| catch me if you can  | medium | 100 | weB information |
-| cheers  | easy | 50 | weB information |
-| encipher  | easy | 50 | malwarE reversE engineering |
-| fortunE teller  | medium | 100 | Exploitation
-| frequency  | medium | 100 | cryptography |
-| imagE catch  | medium | 100 | digitaL forensics |
-| musiC chairs  | medium | 100 | digitaL forensics |
+| Bytemaycry  | Medium | 100 | Malware Reverse Engineering |
+| Cash  | Easy | 50 | General Information |
+| Catch Me If You Can  | Medium | 100 | Web Information |
+| Cheers  | Easy | 50 | Web Information |
+| Encipher  | Easy | 50 | Malware Reverse Engineering |
+| Fortune Teller  | Medium | 100 | Exploitation
+| Frequency  | Medium | 100 | Cryptography |
+| Image Catch  | Medium | 100 | Digital Forensics |
+| Music Chairs  | Medium | 100 | Digital Forensics |
 
 
 
- Helwan University CTF Competition
+ Helwan University Ctf Competition
 ==============================================
 
-| name | level | points | category | status | flag |
+| Name | Level | Points | Category | Status | Flag |
 |:-:|:-:|:-:|:-:|:-:|:-:|
-| encipher  | easy | 50 | malwarE reversE engineering |
-| erroR code  | easy | 50 | digitaL forensics |
-| postbase  | easy | 50 | cryptography |
-| preciouS vulnerability  | easy | 50 | generaL information |
-| simple reverse  | medium | 100 | malwarE reversE engineering |
-| the dark lord  | medium | 100 | weB information |
-| who am i?  | easy | 50 | weB information |
+| Encipher  | Easy | 50 | Malware Reverse Engineering |
+| Error Code  | Easy | 50 | Digital Forensics |
+| Postbase  | Easy | 50 | Cryptography |
+| Precious Vulnerability  | Easy | 50 | General Information |
+| Simple Reverse  | Medium | 100 | Malware Reverse Engineering |
+| The Dark Lord  | Medium | 100 | Web Information |
+| Who Am I?  | Easy | 50 | Web Information |
 
 
- BUE University CTF Competition
+ Bue University Ctf Competition
 ==============================================
 
-| name | level | points | category | status | flag |
+| Name | Level | Points | Category | Status | Flag |
 |:-:|:-:|:-:|:-:|:-:|:-:|
-| bruteforcE Me  | easy | 50 | malwarE reversE engineering |
-| byTemaycry  | medium | 100 | malwarE reversE engineering |
-| catch me if you can  | medium | 100 | weB information |
-| cheers  | easy | 50 | weB information |
-| musiC chairs  | medium | 100 | digitaL forensics |
-| officE word  | medium | 100 | digitaL forensics |
-| privacy  | easy | 50 | generaL information |
+| Bruteforce Me  | Easy | 50 | Malware Reverse Engineering |
+| Bytemaycry  | Medium | 100 | Malware Reverse Engineering |
+| Catch Me If You Can  | Medium | 100 | Web Information |
+| Cheers  | Easy | 50 | Web Information |
+| Music Chairs  | Medium | 100 | Digital Forensics |
+| Office Word  | Medium | 100 | Digital Forensics |
+| Privacy  | Easy | 50 | General Information |
 
 
 
- Al-Azhar University Cybersecurity CTF Competition
+ Al-azhar University Cybersecurity Ctf Competition
 ==============================================
 
-| name | level | points | category | status | flag |
+| Name | Level | Points | Category | Status | Flag |
 |:-:|:-:|:-:|:-:|:-:|:-:|
-| bruteforcE Me  | easy | 50 | malwarE reversE engineering |
-| catch me if you can  | medium | 100 | weB information |
-| encipher  | easy | 50 | malwarE reversE engineering |
-| hide me  | easy | 50 | generaL information |
-| inbox  | medium | 100 | weB information |
-| musiC chairs  | medium | 100 | digitaL forensics |
-| RSA  | easy | 50 | cryptography |
-| where is the flag  | easy | 50 | weB information |
-| where is the password?  | medium | 100 | networK information |
+| Bruteforce Me  | Easy | 50 | Malware Reverse Engineering |
+| Catch Me If You Can  | Medium | 100 | Web Information |
+| Encipher  | Easy | 50 | Malware Reverse Engineering |
+| Hide Me  | Easy | 50 | General Information |
+| Inbox  | Medium | 100 | Web Information |
+| Music Chairs  | Medium | 100 | Digital Forensics |
+| Rsa  | Easy | 50 | Cryptography |
+| Where Is The Flag  | Easy | 50 | Web Information |
+| Where Is The Password?  | Medium | 100 | Network Information |
 
 
 
- Ahram Canadian University CTF Competition
+ Ahram Canadian University Ctf Competition
 ==============================================
 
-| name | level | points | category | status | flag |
+| Name | Level | Points | Category | Status | Flag |
 |:-:|:-:|:-:|:-:|:-:|:-:|
-| cloak anD dagger  | medium | 100 | malwarE reversE engineering |
-| i love music  | medium | 100 | digitaL forensics |
-| inbox  | medium | 100 | weB information |
-| officE word  | medium | 100 | digitaL forensics |
-| preciouS vulnerability  | easy | 50 | generaL information |
-| requesT gate  | easy | 50 | weB information |
-| RSA  | easy | 50 | cryptography |
-| training  | medium | 100 | malwarE reversE engineering |
+| Cloak And Dagger  | Medium | 100 | Malware Reverse Engineering |
+| I Love Music  | Medium | 100 | Digital Forensics |
+| Inbox  | Medium | 100 | Web Information |
+| Office Word  | Medium | 100 | Digital Forensics |
+| Precious Vulnerability  | Easy | 50 | General Information |
+| Request Gate  | Easy | 50 | Web Information |
+| Rsa  | Easy | 50 | Cryptography |
+| Training  | Medium | 100 | Malware Reverse Engineering |
 
 
 
- Women in Cybersecurity CTF
+ Women In Cybersecurity Ctf
 ==============================================
 
-| name | level | points | category | status | flag |
+| Name | Level | Points | Category | Status | Flag |
 |:-:|:-:|:-:|:-:|:-:|:-:|
-| bosS message  | medium | 100 | cryptography |
-| filE found  | easy | 50 | digitaL forensics |
-| goT controls  | easy | 50 | weB information |
-| helP ann  | medium | 100 | digitaL forensics |
-| jusT smile  | medium | 100 | digitaL forensics |
-| light  | easy | 50 | digitaL forensics |
-| mobilE app  | medium | 100 | malwarE reversE engineering |
-| phone call  | easy | 50 | generaL information |
-| requesT gate  | easy | 50 | weB information |
-| say mY name  | medium | 100 | malwarE reversE engineering |
-| wanna somE biscuits  | easy | 50 | weB information |
+| Boss Message  | Medium | 100 | Cryptography |
+| File Found  | Easy | 50 | Digital Forensics |
+| Got Controls  | Easy | 50 | Web Information |
+| Help Ann  | Medium | 100 | Digital Forensics |
+| Just Smile  | Medium | 100 | Digital Forensics |
+| Light  | Easy | 50 | Digital Forensics |
+| Mobile App  | Medium | 100 | Malware Reverse Engineering |
+| Phone Call  | Easy | 50 | General Information |
+| Request Gate  | Easy | 50 | Web Information |
+| Say My Name  | Medium | 100 | Malware Reverse Engineering |
+| Wanna Some Biscuits  | Easy | 50 | Web Information |
 
 
- Egypt Universities CTF Competition
+ Egypt Universities Ctf Competition
 ==============================================
 
-| name | level | points | category | status | flag |
+| Name | Level | Points | Category | Status | Flag |
 |:-:|:-:|:-:|:-:|:-:|:-:|
-| clienT side  | easy | 50 | weB information |
-| elementary  | medium | 100 | malwarE reversE engineering |
-| gooD package  | easy | 50 | malwarE reversE engineering |
-| keeP ASCiing  | easy | 50 | cryptography |
-| luckY Q13  | easy | 50 | digitaL forensics |
-| OTMP  | medium | 100 | cryptography |
-| phone call  | easy | 50 | generaL information |
-| repeat after me  | medium | 100 | digitaL forensics |
-| reversE Me  | medium | 100 | malwarE reversE engineering |
-| searcH enginE error  | hard | 200 | weB information |
-| secreT agent  | medium | 100 | weB information |
-| secreT blog  | medium | 100 | weB information |
-| well known  | easy | 50 | cryptography |
-| xmen  | medium | 100 | digitaL forensics |
-| XO  | medium | 100 | malwarE reversE engineering |
-| yummi  | medium | 100 | cryptography |
+| Client Side  | Easy | 50 | Web Information |
+| Elementary  | Medium | 100 | Malware Reverse Engineering |
+| Good Package  | Easy | 50 | Malware Reverse Engineering |
+| Keep Asciing  | Easy | 50 | Cryptography |
+| Lucky Q13  | Easy | 50 | Digital Forensics |
+| Otmp  | Medium | 100 | Cryptography |
+| Phone Call  | Easy | 50 | General Information |
+| Repeat After Me  | Medium | 100 | Digital Forensics |
+| Reverse Me  | Medium | 100 | Malware Reverse Engineering |
+| Search Engine Error  | Hard | 200 | Web Information |
+| Secret Agent  | Medium | 100 | Web Information |
+| Secret Blog  | Medium | 100 | Web Information |
+| Well Known  | Easy | 50 | Cryptography |
+| Xmen  | Medium | 100 | Digital Forensics |
+| Xo  | Medium | 100 | Malware Reverse Engineering |
+| Yummi  | Medium | 100 | Cryptography |
 
 
- CyberTeam Company Internship CTF
+ Cyberteam Company Internship Ctf
 ==============================================
 
-| name | level | points | category | status | flag |
+| Name | Level | Points | Category | Status | Flag |
 |:-:|:-:|:-:|:-:|:-:|:-:|
-| filE found  | easy | 50 | digitaL forensics |
-| helP ann  | medium | 100 | digitaL forensics |
-| jusT smile  | medium | 100 | digitaL forensics |
-| light  | easy | 50 | digitaL forensics |
-| mobilE app  | medium | 100 | malwarE reversE engineering |
-| phone call  | easy | 50 | generaL information |
-| requesT gate  | easy | 50 | weB information |
-| say mY name  | medium | 100 | malwarE reversE engineering |
-| wanna somE biscuits  | easy | 50 | weB information |
-| yelloW duck  | medium | 100 | digitaL forensics |
+| File Found  | Easy | 50 | Digital Forensics |
+| Help Ann  | Medium | 100 | Digital Forensics |
+| Just Smile  | Medium | 100 | Digital Forensics |
+| Light  | Easy | 50 | Digital Forensics |
+| Mobile App  | Medium | 100 | Malware Reverse Engineering |
+| Phone Call  | Easy | 50 | General Information |
+| Request Gate  | Easy | 50 | Web Information |
+| Say My Name  | Medium | 100 | Malware Reverse Engineering |
+| Wanna Some Biscuits  | Easy | 50 | Web Information |
+| Yellow Duck  | Medium | 100 | Digital Forensics |
 
 
 
- Quals: Saudi and Oman National Cyber Security CTF 2019
+ Quals: Saudi And Oman National Cyber Security Ctf 2019
 ==============================================
 
-| name | level | points | category | status | flag |
+| Name | Level | Points | Category | Status | Flag |
 |:-:|:-:|:-:|:-:|:-:|:-:|
-| back to basics  | easy | 50 | weB information |
-| hack a nice day  | medium | 100 | digitaL forensics |
-| i love images  | easy | 50 | digitaL forensics |
-| i love this guy  | medium | 100 | malwarE reversE engineering |
-| industries  | easy | 50 | malwarE reversE engineering |
-| jusT anotheR conference  | easy | 50 | generaL information |
-| maria  | hard | 200 | weB information |
-| native  | medium | 100 | malwarE reversE engineering |
-| try to see me  | medium | 100 | digitaL forensics |
+| Back To Basics  | Easy | 50 | Web Information |
+| Hack A Nice Day  | Medium | 100 | Digital Forensics |
+| I Love Images  | Easy | 50 | Digital Forensics |
+| I Love This Guy  | Medium | 100 | Malware Reverse Engineering |
+| Industries  | Easy | 50 | Malware Reverse Engineering |
+| Just Another Conference  | Easy | 50 | General Information |
+| Maria  | Hard | 200 | Web Information |
+| Native  | Medium | 100 | Malware Reverse Engineering |
+| Try To See Me  | Medium | 100 | Digital Forensics |
 
 
- Final: Saudi Arabia Cyber Security CTF Competition 2019
+ Final: Saudi Arabia Cyber Security Ctf Competition 2019
 ==============================================
 
-| name | level | points | category | status | flag |
+| Name | Level | Points | Category | Status | Flag |
 |:-:|:-:|:-:|:-:|:-:|:-:|
-| alieN message  | easy | 50 | digitaL forensics |
-| booK lover  | hard | 200 | weB information |
-| caN yoU see it  | easy | 50 | malwarE reversE engineering |
-| clumsy developer  | medium | 100 | malwarE reversE engineering |
-| goT controls  | easy | 50 | weB information |
-| hsah  | medium | 100 | cryptography |
-| literally  | hard | 200 | weB information |
-| morE eggs  | medium | 100 | digitaL forensics |
-| record  | easy | 50 | generaL information |
-| repeat after me  | medium | 100 | digitaL forensics |
-| round anD round  | medium | 100 | malwarE reversE engineering |
-| secreT agent  | medium | 100 | weB information |
-| unlock the pattern  | hard | 200 | digitaL forensics |
-| want morE biscuits  | hard | 200 | weB information |
-| you have to be resourceful  | medium | 100 | malwarE reversE engineering |
+| Alien Message  | Easy | 50 | Digital Forensics |
+| Book Lover  | Hard | 200 | Web Information |
+| Can You See It  | Easy | 50 | Malware Reverse Engineering |
+| Clumsy Developer  | Medium | 100 | Malware Reverse Engineering |
+| Got Controls  | Easy | 50 | Web Information |
+| Hsah  | Medium | 100 | Cryptography |
+| Literally  | Hard | 200 | Web Information |
+| More Eggs  | Medium | 100 | Digital Forensics |
+| Record  | Easy | 50 | General Information |
+| Repeat After Me  | Medium | 100 | Digital Forensics |
+| Round And Round  | Medium | 100 | Malware Reverse Engineering |
+| Secret Agent  | Medium | 100 | Web Information |
+| Unlock The Pattern  | Hard | 200 | Digital Forensics |
+| Want More Biscuits  | Hard | 200 | Web Information |
+| You Have To Be Resourceful  | Medium | 100 | Malware Reverse Engineering |
 
 
 
- Egypt Career Summit CTF 2019
+ Egypt Career Summit Ctf 2019
 ==============================================
 
-| name | level | points | category | status | flag |
+| Name | Level | Points | Category | Status | Flag |
 |:-:|:-:|:-:|:-:|:-:|:-:|
-| api  | hard | 200 | weB information |
-| bosS message  | medium | 100 | cryptography |
-| bruteforcE Me  | easy | 50 | malwarE reversE engineering |
-| datA carving  | medium | 100 | digitaL forensics |
-| Do you trust senders  | easy | 50 | generaL information |
-| fileS leakage  | medium | 100 | digitaL forensics |
-| Is it really here?  | hard | 200 | malwarE reversE engineering |
-| pressure  | medium | 100 | cryptography |
-| searching for the cookie  | medium | 100 | weB information |
+| Api  | Hard | 200 | Web Information |
+| Boss Message  | Medium | 100 | Cryptography |
+| Bruteforce Me  | Easy | 50 | Malware Reverse Engineering |
+| Data Carving  | Medium | 100 | Digital Forensics |
+| Do You Trust Senders  | Easy | 50 | General Information |
+| Files Leakage  | Medium | 100 | Digital Forensics |
+| Is It Really Here?  | Hard | 200 | Malware Reverse Engineering |
+| Pressure  | Medium | 100 | Cryptography |
+| Searching For The Cookie  | Medium | 100 | Web Information |
 
 
 
- Final: Oman National Cyber Security CTF 2019
+ Final: Oman National Cyber Security Ctf 2019
 ==============================================
 
-| name | level | points | category | status | flag |
+| Name | Level | Points | Category | Status | Flag |
 |:-:|:-:|:-:|:-:|:-:|:-:|
-| anTiviruS LLc launch  | medium | 100 | weB information |
-| gooD package  | easy | 50 | malwarE reversE engineering |
-| johnny little experiment  | medium | 100 | weB information |
-| luckY Q13  | easy | 50 | digitaL forensics |
-| repeat after me  | medium | 100 | digitaL forensics |
-| reward  | easy | 50 | generaL information |
-| secreT blog  | medium | 100 | weB information |
-| well known  | easy | 50 | cryptography |
-| wronG door  | medium | 100 | malwarE reversE engineering |
-| xmen  | medium | 100 | digitaL forensics |
-| XO  | medium | 100 | malwarE reversE engineering |
-| yummi  | medium | 100 | cryptography |
+| Antivirus Llc Launch  | Medium | 100 | Web Information |
+| Good Package  | Easy | 50 | Malware Reverse Engineering |
+| Johnny Little Experiment  | Medium | 100 | Web Information |
+| Lucky Q13  | Easy | 50 | Digital Forensics |
+| Repeat After Me  | Medium | 100 | Digital Forensics |
+| Reward  | Easy | 50 | General Information |
+| Secret Blog  | Medium | 100 | Web Information |
+| Well Known  | Easy | 50 | Cryptography |
+| Wrong Door  | Medium | 100 | Malware Reverse Engineering |
+| Xmen  | Medium | 100 | Digital Forensics |
+| Xo  | Medium | 100 | Malware Reverse Engineering |
+| Yummi  | Medium | 100 | Cryptography |
 
 
 
- Quals: UAE and Sudan National Cyber Security CTF 2019
+ Quals: Uae And Sudan National Cyber Security Ctf 2019
 ==============================================
 
-| name | level | points | category | status | flag |
+| Name | Level | Points | Category | Status | Flag |
 |:-:|:-:|:-:|:-:|:-:|:-:|
-| encoding  | easy | 50 | generaL information |
-| gooD package  | easy | 50 | malwarE reversE engineering |
-| johnny little experiment  | medium | 100 | weB information |
-| oriental  | medium | 100 | malwarE reversE engineering |
-| repeat after me  | medium | 100 | digitaL forensics |
-| secreT blog  | medium | 100 | weB information |
-| where is the flag  | easy | 50 | weB information |
-| wronG door  | medium | 100 | malwarE reversE engineering |
-| xmen  | medium | 100 | digitaL forensics |
+| Encoding  | Easy | 50 | General Information |
+| Good Package  | Easy | 50 | Malware Reverse Engineering |
+| Johnny Little Experiment  | Medium | 100 | Web Information |
+| Oriental  | Medium | 100 | Malware Reverse Engineering |
+| Repeat After Me  | Medium | 100 | Digital Forensics |
+| Secret Blog  | Medium | 100 | Web Information |
+| Where Is The Flag  | Easy | 50 | Web Information |
+| Wrong Door  | Medium | 100 | Malware Reverse Engineering |
+| Xmen  | Medium | 100 | Digital Forensics |
 
 
- Iraq Cyber Security CTF Competition 2019
+ Iraq Cyber Security Ctf Competition 2019
 ==============================================
 
-| name | level | points | category | status | flag |
+| Name | Level | Points | Category | Status | Flag |
 |:-:|:-:|:-:|:-:|:-:|:-:|
-| anTiviruS LLc launch  | medium | 100 | weB information |
-| back to basics  | easy | 50 | weB information |
-| cheers  | easy | 50 | weB information |
-| cybErtalentS army  | easy | 50 | weB information |
-| ExTr3mE IMagination  | hard | 200 | digitaL forensics |
-| i love music  | medium | 100 | digitaL forensics |
-| industries  | easy | 50 | malwarE reversE engineering |
-| privacy  | easy | 50 | generaL information |
-| softwaReCO password  | medium | 100 | malwarE reversE engineering |
-| well known  | easy | 50 | cryptography |
-| where is the password?  | medium | 100 | networK information |
-| wronG door  | medium | 100 | malwarE reversE engineering |
-| yummi  | medium | 100 | cryptography |
+| Antivirus Llc Launch  | Medium | 100 | Web Information |
+| Back To Basics  | Easy | 50 | Web Information |
+| Cheers  | Easy | 50 | Web Information |
+| Cybertalents Army  | Easy | 50 | Web Information |
+| Extr3me Imagination  | Hard | 200 | Digital Forensics |
+| I Love Music  | Medium | 100 | Digital Forensics |
+| Industries  | Easy | 50 | Malware Reverse Engineering |
+| Privacy  | Easy | 50 | General Information |
+| Softwareco Password  | Medium | 100 | Malware Reverse Engineering |
+| Well Known  | Easy | 50 | Cryptography |
+| Where Is The Password?  | Medium | 100 | Network Information |
+| Wrong Door  | Medium | 100 | Malware Reverse Engineering |
+| Yummi  | Medium | 100 | Cryptography |
 
 
- CIS-HCT CTF
+ Cis-hct Ctf
 ==============================================
 
-| name | level | points | category | status | flag |
+| Name | Level | Points | Category | Status | Flag |
 |:-:|:-:|:-:|:-:|:-:|:-:|
-| cybErtalentS army  | easy | 50 | weB information |
-| frequency  | medium | 100 | cryptography |
-| hide me  | easy | 50 | generaL information |
-| johnny little experiment  | medium | 100 | weB information |
-| keeP ASCiing  | easy | 50 | cryptography |
-| privacy  | easy | 50 | generaL information |
-| RSA  | easy | 50 | cryptography |
-| secreT blog  | medium | 100 | weB information |
-| tears  | easy | 50 | generaL information |
-| well known  | easy | 50 | cryptography |
-| where is the flag  | easy | 50 | weB information |
-| where is the password?  | medium | 100 | networK information |
+| Cybertalents Army  | Easy | 50 | Web Information |
+| Frequency  | Medium | 100 | Cryptography |
+| Hide Me  | Easy | 50 | General Information |
+| Johnny Little Experiment  | Medium | 100 | Web Information |
+| Keep Asciing  | Easy | 50 | Cryptography |
+| Privacy  | Easy | 50 | General Information |
+| Rsa  | Easy | 50 | Cryptography |
+| Secret Blog  | Medium | 100 | Web Information |
+| Tears  | Easy | 50 | General Information |
+| Well Known  | Easy | 50 | Cryptography |
+| Where Is The Flag  | Easy | 50 | Web Information |
+| Where Is The Password?  | Medium | 100 | Network Information |
 
 
- Final: UAE National Cyber Security CTF 2019
+ Final: Uae National Cyber Security Ctf 2019
 ==============================================
 
-| name | level | points | category | status | flag |
+| Name | Level | Points | Category | Status | Flag |
 |:-:|:-:|:-:|:-:|:-:|:-:|
-| alieN message  | easy | 50 | digitaL forensics |
-| anTiviruS LLc launch  | medium | 100 | weB information |
-| goT controls  | easy | 50 | weB information |
-| industries  | easy | 50 | malwarE reversE engineering |
-| literally  | hard | 200 | weB information |
-| morE eggs  | medium | 100 | digitaL forensics |
-| privacy  | easy | 50 | generaL information |
-| searcH enginE error  | hard | 200 | weB information |
-| secreT browser  | medium | 100 | weB information |
-| well known  | easy | 50 | cryptography |
-| yummi  | medium | 100 | cryptography |
+| Alien Message  | Easy | 50 | Digital Forensics |
+| Antivirus Llc Launch  | Medium | 100 | Web Information |
+| Got Controls  | Easy | 50 | Web Information |
+| Industries  | Easy | 50 | Malware Reverse Engineering |
+| Literally  | Hard | 200 | Web Information |
+| More Eggs  | Medium | 100 | Digital Forensics |
+| Privacy  | Easy | 50 | General Information |
+| Search Engine Error  | Hard | 200 | Web Information |
+| Secret Browser  | Medium | 100 | Web Information |
+| Well Known  | Easy | 50 | Cryptography |
+| Yummi  | Medium | 100 | Cryptography |
 
 
 
- CyberTalents Women in Cyber Security CTF
+ Cybertalents Women In Cyber Security Ctf
 ==============================================
 
-| name | level | points | category | status | flag |
+| Name | Level | Points | Category | Status | Flag |
 |:-:|:-:|:-:|:-:|:-:|:-:|
-| alieN message  | easy | 50 | digitaL forensics |
-| anTiviruS LLc launch  | medium | 100 | weB information |
-| clumsy developer  | medium | 100 | malwarE reversE engineering |
-| industries  | easy | 50 | malwarE reversE engineering |
-| johnny little experiment  | medium | 100 | weB information |
-| messagE box  | medium | 100 | Exploitation
-| morE eggs  | medium | 100 | digitaL forensics |
-| privacy  | easy | 50 | generaL information |
-| repeat after me  | medium | 100 | digitaL forensics |
-| secreT agent  | medium | 100 | weB information |
-| secreT browser  | medium | 100 | weB information |
-| you have to be resourceful  | medium | 100 | malwarE reversE engineering |
-| yummi  | medium | 100 | cryptography |
+| Alien Message  | Easy | 50 | Digital Forensics |
+| Antivirus Llc Launch  | Medium | 100 | Web Information |
+| Clumsy Developer  | Medium | 100 | Malware Reverse Engineering |
+| Industries  | Easy | 50 | Malware Reverse Engineering |
+| Johnny Little Experiment  | Medium | 100 | Web Information |
+| Message Box  | Medium | 100 | Exploitation
+| More Eggs  | Medium | 100 | Digital Forensics |
+| Privacy  | Easy | 50 | General Information |
+| Repeat After Me  | Medium | 100 | Digital Forensics |
+| Secret Agent  | Medium | 100 | Web Information |
+| Secret Browser  | Medium | 100 | Web Information |
+| You Have To Be Resourceful  | Medium | 100 | Malware Reverse Engineering |
+| Yummi  | Medium | 100 | Cryptography |
 
 
 
- Quals: Jordan Algeria Lebanon Morocco National CTF 2019
+ Quals: Jordan Algeria Lebanon Morocco National Ctf 2019
 ==============================================
 
-| name | level | points | category | status | flag |
+| Name | Level | Points | Category | Status | Flag |
 |:-:|:-:|:-:|:-:|:-:|:-:|
-| alieN message  | easy | 50 | digitaL forensics |
-| anTiviruS LLc launch  | medium | 100 | weB information |
-| bosS message  | medium | 100 | cryptography |
-| cash  | easy | 50 | generaL information |
-| clienT side  | easy | 50 | weB information |
-| kcal  | medium | 100 | malwarE reversE engineering |
-| morE eggs  | medium | 100 | digitaL forensics |
-| say mY name  | medium | 100 | malwarE reversE engineering |
-| secreT agent  | medium | 100 | weB information |
-| training  | medium | 100 | malwarE reversE engineering |
+| Alien Message  | Easy | 50 | Digital Forensics |
+| Antivirus Llc Launch  | Medium | 100 | Web Information |
+| Boss Message  | Medium | 100 | Cryptography |
+| Cash  | Easy | 50 | General Information |
+| Client Side  | Easy | 50 | Web Information |
+| Kcal  | Medium | 100 | Malware Reverse Engineering |
+| More Eggs  | Medium | 100 | Digital Forensics |
+| Say My Name  | Medium | 100 | Malware Reverse Engineering |
+| Secret Agent  | Medium | 100 | Web Information |
+| Training  | Medium | 100 | Malware Reverse Engineering |
 
 
 
- Final: Morocco National Cyber Security CTF 2019
+ Final: Morocco National Cyber Security Ctf 2019
 ==============================================
 
-| name | level | points | category | status | flag |
+| Name | Level | Points | Category | Status | Flag |
 |:-:|:-:|:-:|:-:|:-:|:-:|
-| android 2  | hard | 200 | malwarE reversE engineering |
-| bflag  | easy | 50 | digitaL forensics |
-| clumsy developer  | medium | 100 | malwarE reversE engineering |
-| goT controls  | easy | 50 | weB information |
-| hide me  | easy | 50 | generaL information |
-| mobilE app  | medium | 100 | malwarE reversE engineering |
-| officE word  | medium | 100 | digitaL forensics |
-| searcH enginE error  | hard | 200 | weB information |
-| sgtoe2  | medium | 100 | digitaL forensics |
-| want morE biscuits  | hard | 200 | weB information |
-| well known  | easy | 50 | cryptography |
+| Android 2  | Hard | 200 | Malware Reverse Engineering |
+| Bflag  | Easy | 50 | Digital Forensics |
+| Clumsy Developer  | Medium | 100 | Malware Reverse Engineering |
+| Got Controls  | Easy | 50 | Web Information |
+| Hide Me  | Easy | 50 | General Information |
+| Mobile App  | Medium | 100 | Malware Reverse Engineering |
+| Office Word  | Medium | 100 | Digital Forensics |
+| Search Engine Error  | Hard | 200 | Web Information |
+| Sgtoe2  | Medium | 100 | Digital Forensics |
+| Want More Biscuits  | Hard | 200 | Web Information |
+| Well Known  | Easy | 50 | Cryptography |
 
 
- Algeria National Cyber Security CTF
+ Algeria National Cyber Security Ctf
 ==============================================
 
-| name | level | points | category | status | flag |
+| Name | Level | Points | Category | Status | Flag |
 |:-:|:-:|:-:|:-:|:-:|:-:|
-| bflag  | easy | 50 | digitaL forensics |
-| byTemaycry  | medium | 100 | malwarE reversE engineering |
-| clumsy developer  | medium | 100 | malwarE reversE engineering |
-| confidential  | hard | 200 | weB information |
-| frequency  | medium | 100 | cryptography |
-| number  | hard | 200 | malwarE reversE engineering |
-| record  | easy | 50 | generaL information |
-| sgtoe  | medium | 100 | digitaL forensics |
-| the dark lord  | medium | 100 | weB information |
-| toP secreT email  | medium | 100 | weB information |
+| Bflag  | Easy | 50 | Digital Forensics |
+| Bytemaycry  | Medium | 100 | Malware Reverse Engineering |
+| Clumsy Developer  | Medium | 100 | Malware Reverse Engineering |
+| Confidential  | Hard | 200 | Web Information |
+| Frequency  | Medium | 100 | Cryptography |
+| Number  | Hard | 200 | Malware Reverse Engineering |
+| Record  | Easy | 50 | General Information |
+| Sgtoe  | Medium | 100 | Digital Forensics |
+| The Dark Lord  | Medium | 100 | Web Information |
+| Top Secret Email  | Medium | 100 | Web Information |
 
 
 
- Final: Syria National Cyber Security CTF 2019
+ Final: Syria National Cyber Security Ctf 2019
 ==============================================
 
-| name | level | points | category | status | flag |
+| Name | Level | Points | Category | Status | Flag |
 |:-:|:-:|:-:|:-:|:-:|:-:|
-| android 2  | hard | 200 | malwarE reversE engineering |
-| bflag  | easy | 50 | digitaL forensics |
-| byTemaycry  | medium | 100 | malwarE reversE engineering |
-| elementary  | medium | 100 | malwarE reversE engineering |
-| frequency  | medium | 100 | cryptography |
-| record  | easy | 50 | generaL information |
-| repeat after me  | medium | 100 | digitaL forensics |
-| sgtoe  | medium | 100 | digitaL forensics |
-| the dark lord  | medium | 100 | weB information |
-| toP secreT email  | medium | 100 | weB information |
+| Android 2  | Hard | 200 | Malware Reverse Engineering |
+| Bflag  | Easy | 50 | Digital Forensics |
+| Bytemaycry  | Medium | 100 | Malware Reverse Engineering |
+| Elementary  | Medium | 100 | Malware Reverse Engineering |
+| Frequency  | Medium | 100 | Cryptography |
+| Record  | Easy | 50 | General Information |
+| Repeat After Me  | Medium | 100 | Digital Forensics |
+| Sgtoe  | Medium | 100 | Digital Forensics |
+| The Dark Lord  | Medium | 100 | Web Information |
+| Top Secret Email  | Medium | 100 | Web Information |
 
 
 
- Final: Jordan National Cyber Security CTF 2019
+ Final: Jordan National Cyber Security Ctf 2019
 ==============================================
 
-| name | level | points | category | status | flag |
+| Name | Level | Points | Category | Status | Flag |
 |:-:|:-:|:-:|:-:|:-:|:-:|
-| caN yoU see it  | easy | 50 | malwarE reversE engineering |
-| handbook  | hard | 200 | malwarE reversE engineering |
-| keeP ASCiing  | easy | 50 | cryptography |
-| maximuM courage  | easy | 50 | weB information |
-| mouse  | easy | 50 | digitaL forensics |
-| onlinE now  | hard | 200 | weB information |
-| padisket  | medium | 100 | digitaL forensics |
-| pekz  | medium | 100 | digitaL forensics |
-| phone call  | easy | 50 | generaL information |
-| you have to be resourceful  | medium | 100 | malwarE reversE engineering |
+| Can You See It  | Easy | 50 | Malware Reverse Engineering |
+| Handbook  | Hard | 200 | Malware Reverse Engineering |
+| Keep Asciing  | Easy | 50 | Cryptography |
+| Maximum Courage  | Easy | 50 | Web Information |
+| Mouse  | Easy | 50 | Digital Forensics |
+| Online Now  | Hard | 200 | Web Information |
+| Padisket  | Medium | 100 | Digital Forensics |
+| Pekz  | Medium | 100 | Digital Forensics |
+| Phone Call  | Easy | 50 | General Information |
+| You Have To Be Resourceful  | Medium | 100 | Malware Reverse Engineering |
 
 
 
- Final: Jordan National Cyber Security CTF 2019
+ Final: Jordan National Cyber Security Ctf 2019
 ==============================================
 
-| name | level | points | category | status | flag |
+| Name | Level | Points | Category | Status | Flag |
 |:-:|:-:|:-:|:-:|:-:|:-:|
-| caN yoU see it  | easy | 50 | malwarE reversE engineering |
-| handbook  | hard | 200 | malwarE reversE engineering |
-| keeP ASCiing  | easy | 50 | cryptography |
-| maximuM courage  | easy | 50 | weB information |
-| mouse  | easy | 50 | digitaL forensics |
-| onlinE now  | hard | 200 | weB information |
-| padisket  | medium | 100 | digitaL forensics |
-| pekz  | medium | 100 | digitaL forensics |
-| phone call  | easy | 50 | generaL information |
-| you have to be resourceful  | medium | 100 | malwarE reversE engineering |
+| Can You See It  | Easy | 50 | Malware Reverse Engineering |
+| Handbook  | Hard | 200 | Malware Reverse Engineering |
+| Keep Asciing  | Easy | 50 | Cryptography |
+| Maximum Courage  | Easy | 50 | Web Information |
+| Mouse  | Easy | 50 | Digital Forensics |
+| Online Now  | Hard | 200 | Web Information |
+| Padisket  | Medium | 100 | Digital Forensics |
+| Pekz  | Medium | 100 | Digital Forensics |
+| Phone Call  | Easy | 50 | General Information |
+| You Have To Be Resourceful  | Medium | 100 | Malware Reverse Engineering |
 
 
 
- Quals: Egypt and Tunisia National Cyber Security CTF 2019
+ Quals: Egypt And Tunisia National Cyber Security Ctf 2019
 ==============================================
 
-| name | level | points | category | status | flag |
+| Name | Level | Points | Category | Status | Flag |
 |:-:|:-:|:-:|:-:|:-:|:-:|
-| bflag  | easy | 50 | digitaL forensics |
-| handbook  | hard | 200 | malwarE reversE engineering |
-| kcal  | medium | 100 | malwarE reversE engineering |
-| refereR valley  | medium | 100 | weB information |
-| reward  | easy | 50 | generaL information |
-| secreT browser  | medium | 100 | weB information |
-| sgtoe2  | medium | 100 | digitaL forensics |
-| want morE biscuits  | hard | 200 | weB information |
-| wronG door  | medium | 100 | malwarE reversE engineering |
+| Bflag  | Easy | 50 | Digital Forensics |
+| Handbook  | Hard | 200 | Malware Reverse Engineering |
+| Kcal  | Medium | 100 | Malware Reverse Engineering |
+| Referer Valley  | Medium | 100 | Web Information |
+| Reward  | Easy | 50 | General Information |
+| Secret Browser  | Medium | 100 | Web Information |
+| Sgtoe2  | Medium | 100 | Digital Forensics |
+| Want More Biscuits  | Hard | 200 | Web Information |
+| Wrong Door  | Medium | 100 | Malware Reverse Engineering |
 
 
 
- Final: Kuwait Cyber Security CTF 2019
+ Final: Kuwait Cyber Security Ctf 2019
 ==============================================
 
-| name | level | points | category | status | flag |
+| Name | Level | Points | Category | Status | Flag |
 |:-:|:-:|:-:|:-:|:-:|:-:|
-| caN yoU see it  | easy | 50 | malwarE reversE engineering |
-| handbook  | hard | 200 | malwarE reversE engineering |
-| hide me  | easy | 50 | generaL information |
-| maximuM courage  | easy | 50 | weB information |
-| mouse  | easy | 50 | digitaL forensics |
-| onlinE now  | hard | 200 | weB information |
-| padisket  | medium | 100 | digitaL forensics |
-| you have to be resourceful  | medium | 100 | malwarE reversE engineering |
+| Can You See It  | Easy | 50 | Malware Reverse Engineering |
+| Handbook  | Hard | 200 | Malware Reverse Engineering |
+| Hide Me  | Easy | 50 | General Information |
+| Maximum Courage  | Easy | 50 | Web Information |
+| Mouse  | Easy | 50 | Digital Forensics |
+| Online Now  | Hard | 200 | Web Information |
+| Padisket  | Medium | 100 | Digital Forensics |
+| You Have To Be Resourceful  | Medium | 100 | Malware Reverse Engineering |
 
 
- THREAT CON CTF 2019
+ Threat Con Ctf 2019
 ==============================================
 
-| name | level | points | category | status | flag |
+| Name | Level | Points | Category | Status | Flag |
 |:-:|:-:|:-:|:-:|:-:|:-:|
-| caN yoU see it  | easy | 50 | malwarE reversE engineering |
-| goT controls  | easy | 50 | weB information |
-| handbook  | hard | 200 | malwarE reversE engineering |
-| hide me  | easy | 50 | generaL information |
-| maximuM courage  | easy | 50 | weB information |
-| mouse  | easy | 50 | digitaL forensics |
-| onlinE now  | hard | 200 | weB information |
-| padisket  | medium | 100 | digitaL forensics |
-| you have to be resourceful  | medium | 100 | malwarE reversE engineering |
+| Can You See It  | Easy | 50 | Malware Reverse Engineering |
+| Got Controls  | Easy | 50 | Web Information |
+| Handbook  | Hard | 200 | Malware Reverse Engineering |
+| Hide Me  | Easy | 50 | General Information |
+| Maximum Courage  | Easy | 50 | Web Information |
+| Mouse  | Easy | 50 | Digital Forensics |
+| Online Now  | Hard | 200 | Web Information |
+| Padisket  | Medium | 100 | Digital Forensics |
+| You Have To Be Resourceful  | Medium | 100 | Malware Reverse Engineering |
 
 
 
- BSides Singapore Pre-Conf CTF
+ Bsides Singapore Pre-conf Ctf
 ==============================================
 
-| name | level | points | category | status | flag |
+| Name | Level | Points | Category | Status | Flag |
 |:-:|:-:|:-:|:-:|:-:|:-:|
-| caN yoU see it  | easy | 50 | malwarE reversE engineering |
-| goT controls  | easy | 50 | weB information |
-| handbook  | hard | 200 | malwarE reversE engineering |
-| maximuM courage  | easy | 50 | weB information |
-| mouse  | easy | 50 | digitaL forensics |
-| onlinE now  | hard | 200 | weB information |
-| padisket  | medium | 100 | digitaL forensics |
-| privacy  | easy | 50 | generaL information |
-| you have to be resourceful  | medium | 100 | malwarE reversE engineering |
+| Can You See It  | Easy | 50 | Malware Reverse Engineering |
+| Got Controls  | Easy | 50 | Web Information |
+| Handbook  | Hard | 200 | Malware Reverse Engineering |
+| Maximum Courage  | Easy | 50 | Web Information |
+| Mouse  | Easy | 50 | Digital Forensics |
+| Online Now  | Hard | 200 | Web Information |
+| Padisket  | Medium | 100 | Digital Forensics |
+| Privacy  | Easy | 50 | General Information |
+| You Have To Be Resourceful  | Medium | 100 | Malware Reverse Engineering |
 
 
 
- Final: Egypt National Cyber Security CTF 2019
+ Final: Egypt National Cyber Security Ctf 2019
 ==============================================
     Edit Team
 
-| name | level | points | category | status | flag |
+| Name | Level | Points | Category | Status | Flag |
 |:-:|:-:|:-:|:-:|:-:|:-:|
-| anotheR tune  | medium | 100 | digitaL forensics |
-| blinD Me  | medium | 100 | weB information |
-| curiosity  | medium | 100 | malwarE reversE engineering |
-| fibonacciís socket  | hard | 200 | malwarE reversE engineering |
-| record  | easy | 50 | generaL information |
-| runecover  | medium | 100 | digitaL forensics |
-| the one  | easy | 50 | cryptography |
-| wannA inject  | hard | 200 | weB information |
+| Another Tune  | Medium | 100 | Digital Forensics |
+| Blind Me  | Medium | 100 | Web Information |
+| Curiosity  | Medium | 100 | Malware Reverse Engineering |
+| Fibonacciís Socket  | Hard | 200 | Malware Reverse Engineering |
+| Record  | Easy | 50 | General Information |
+| Runecover  | Medium | 100 | Digital Forensics |
+| The One  | Easy | 50 | Cryptography |
+| Wanna Inject  | Hard | 200 | Web Information |
 
-10 SEP 2019
+
