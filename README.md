@@ -1,9 +1,9 @@
-write-up by Islam Gaber >> { islamgab }
+###### write-up by Islam Gaber >> { islamgab }
 
 ## EGCTF 2019 - Qualification 2019
 
 ## Misc: 84d $!9N41 (400)
-### Challenge with 400 points and 0 solved
+#### Challenge with 400 points and 0 solved
 
 ## Challenge Description:
 
