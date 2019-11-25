@@ -18,7 +18,7 @@ Our Calculation says that this is not a random noise. Here are the results: -Pea
 
 
 ##### Photoshop Part
-using photoshoft bacouse i donot know tools to detect noise o may be can detect it by chunk tools but it`ll not get value easy thin i try
+using photoshop bacouse i don\`t know tools to detect noise o may be can detect it by chunk tools but it`ll not get value easy thin i try
 to get list of 103 row px value using photoshop and do it manual not automate
 
 To-Do
