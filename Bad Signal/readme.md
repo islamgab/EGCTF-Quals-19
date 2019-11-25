@@ -73,7 +73,9 @@ i fixed image but not found flag but say **"EGCTF The Flag is Not Here But if yo
 'REET 4HE FLAG IS %'#4&[?CN?DCD?R?N?X??] 9OU #AN STOP NOW %ND OF -ESSAGE
 ```
 after 3 hours
-looking in ascii table found shift 32 bit as look 
+looking in ascii table found shift 32 bit as look **Decimal val to Char Left table to Right table**
+* Dec(1)+32 --> 33 = chr "!"
+* Dec(39)+32 --> 71 = chr "G"
 
 <img src="https://github.com/islamgab/EGCTF-Quals-19/blob/master/Bad%20Signal/ascii-table.png" alt="chal" class="center" width="350" height="350">
 
