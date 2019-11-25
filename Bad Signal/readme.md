@@ -1,8 +1,5 @@
 #### write-up by Islam Gaber >>> { islamgab }
 
-url: ""
-
-
 ## Misc: [84d $!9N41 (400)](https://ctf2019.egcert.eg/challenges#84d%20$!9N41)
 #### Challenge with 400 points and 0 solved
 
