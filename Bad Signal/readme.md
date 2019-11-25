@@ -62,7 +62,8 @@ pixels = [pixels[i * width:(i + 1) * width] for i in xrange(height)] # to select
 
 ```
 i fixed image but not found flag but say **"EGCTF The Flag is Not Here But if you can fix me, You Already have The Flag"**
-
+ so i get pixels value shifted and try it
+ 
 ```python
 >>> px = [39, 82, 69, 69, 84, 1, 1, 0, 52, 72, 69, 0, 70, 76, 65, 71, 0, 73, 83, 0, 37, 39, 35, 52, 38, 91, 17, 63, 67, 20, 78, 63, 68, 19, 67, 16, 68, 19, 63, 82, 16, 21, 19, 23, 23, 20, 63, 21, 23, 16, 78, 19, 63, 23, 19, 88, 23, 63, 23, 16, 16, 63, 24, 25, 24, 17, 17, 21, 93, 0, 57, 79, 85, 0, 35, 65, 78, 0, 83, 84, 79, 80, 0, 78, 79, 87, 14, 0, 37, 78, 68, 0, 79, 70, 0, 45, 69, 83, 83, 65, 71, 69, 14]
 >>>
