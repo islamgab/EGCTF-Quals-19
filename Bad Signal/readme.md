@@ -24,6 +24,8 @@ to get list of 103 row px value using photoshop and do it manual not automate
 To-Do
 
 
+after get pixels shift value
+
 ##### Wavelength = 103 px/row
 
 ```python
@@ -43,9 +45,21 @@ row_no_102 = [102, 205, 308, 411, 514, 617, 720, 823, 926, 1029, 1132, 1235, 133
 
 #### function for shift list of row width +Right -Left
 ```python
+from PIL import Image
+import numpy as np # to make array for rebuild png image
+
 def shift(seq, n):
     n = n % len(seq)
     return seq[n:] + seq[:n]
+
+im = Image.open("out.png")
+pixels = im.load()
+
+
+pixels = list(im.getdata())
+width, height = im.size
+pixels = [pixels[i * width:(i + 1) * width] for i in xrange(height)] # to select row by rowonly select width
+
 ```
 
 
