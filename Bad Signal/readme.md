@@ -1,4 +1,5 @@
-103 Pixel row
+##### Wavelength = 103 px/row
+
 ```python
 row_no_0 = [0, 103, 206, 309, 412, 515, 618, 721, 824, 927, 1030, 1133, 1236, 1339, 1442, 1545, 1648]
 row_no_1 = [1, 104, 207, 310, 413, 516, 619, 722, 825, 928, 1031, 1134, 1237, 1340, 1443, 1546, 1649]
@@ -16,7 +17,7 @@ row_no_102 = [102, 205, 308, 411, 514, 617, 720, 823, 926, 1029, 1132, 1235, 133
 ```
 
 
-#####function for shift list of row width +Right -Left
+##### function for shift list of row width +Right -Left
 ```python
 def shift(seq, n):
     n = n % len(seq)
