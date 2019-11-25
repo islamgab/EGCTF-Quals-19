@@ -1,10 +1,7 @@
----
-layout: post
-title:  84d $!9N41 (400)
 description: write-up by Islam Gaber aka islamgab
-tags: ""
 url: "https://ctf2019.egcert.eg/challenges#84d%20$!9N41"
----
+
+
 ## Misc: 84d $!9N41 (400)
 #### Challenge with 400 points and 0 solved
 
