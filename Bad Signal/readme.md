@@ -64,5 +64,5 @@ looking in ascii table found shift 32 bit as look
 ### Flag:
 Greet!! The flag is EGCTF{1_c4n_d3c0d3_r053774_570n3_73x7_700_898115} You Can stop now. End of Message.
 
-i Can stop now { islamgab }
-Thank you
+i Can stop now
+{ islamgab }
