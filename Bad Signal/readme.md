@@ -43,6 +43,14 @@ def shift(seq, n):
 ```
 
 
+```
+>>> px = [39, 82, 69, 69, 84, 1, 1, 0, 52, 72, 69, 0, 70, 76, 65, 71, 0, 73, 83, 0, 37, 39, 35, 52, 38, 91, 17, 63, 67, 20, 78, 63, 68, 19, 67, 16, 68, 19, 63, 82, 16, 21, 19, 23, 23, 20, 63, 21, 23, 16, 78, 19, 63, 23, 19, 88, 23, 63, 23, 16, 16, 63, 24, 25, 24, 17, 17, 21, 93, 0, 57, 79, 85, 0, 35, 65, 78, 0, 83, 84, 79, 80, 0, 78, 79, 87, 14, 0, 37, 78, 68, 0, 79, 70, 0, 45, 69, 83, 83, 65, 71, 69, 14]
+>>>
+>>> ''.join([chr(i) for i in px])
+"'REET\x01\x01\x004HE\x00FLAG\x00IS\x00%'#4&[\x11?C\x14N?D\x13C\x10D\x13?R\x10\x15\x13\x17\x17\x14?\x15\x17\x10N\x13?\x17\x13X\x17?\x17\x10\x10?\x18\x19\x18\x11\x11\x15]\x009OU\x00#AN\x00STOP\x00NOW\x0e\x00%ND\x00OF\x00-ESSAGE\x0e"
+```
+
+lokking in ascii table found shift 32 bit as look
 <img src="https://github.com/islamgab/EGCTF-Quals-19/blob/master/Bad%20Signal/ascii-table.png" alt="chal" class="center" width="350" height="350">
 
 ### Flag:
