@@ -48,7 +48,7 @@ def shift(seq, n):
 >>>
 >>> ''.join([chr(i) for i in px])
 "'REET\x01\x01\x004HE\x00FLAG\x00IS\x00%'#4&[\x11?C\x14N?D\x13C\x10D\x13?R\x10\x15\x13\x17\x17\x14?\x15\x17\x10N\x13?\x17\x13X\x17?\x17\x10\x10?\x18\x19\x18\x11\x11\x15]\x009OU\x00#AN\x00STOP\x00NOW\x0e\x00%ND\x00OF\x00-ESSAGE\x0e"
->>> print(''.join([chr(i) for i in px])) # print for easy voew
+>>> print(''.join([chr(i) for i in px])) # print for easy view
 'REET 4HE FLAG IS %'#4&[?CN?DCD?R?N?X??] 9OU #AN STOP NOW %ND OF -ESSAGE
 ```
 after 3 hours
