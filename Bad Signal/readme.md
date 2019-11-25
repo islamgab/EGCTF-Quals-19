@@ -43,5 +43,7 @@ def shift(seq, n):
 ```
 
 
+<img src="https://github.com/islamgab/EGCTF-Quals-19/blob/master/Bad%20Signal/ascii-table.png" alt="chal" class="center" width="350" height="350">
+
 ### Flag:
 Greet!! The flag is EGCTF{1_c4n_d3c0d3_r053774_570n3_73x7_700_898115} You Can stop now. End of Message.
