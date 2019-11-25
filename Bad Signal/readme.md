@@ -7,6 +7,7 @@ url: "https://ctf2019.egcert.eg/challenges#84d%20$!9N41"
 ---
 
 ![image](https://github.com/islamgab/EGCTF-Quals-19/blob/master/Bad%20Signal/ch01.JPG)
+![image](https://github.com/islamgab/EGCTF-Quals-19/blob/master/Bad%20Signal/ch02.JPG)
 
 ##### Wavelength = 103 px/row
 
