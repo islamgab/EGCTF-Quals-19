@@ -1,4 +1,4 @@
-![GitHub Logo](/ch1.jpg)
+![GitHub Logo](/ch01.jpg)
 
 ##### Wavelength = 103 px/row
 
