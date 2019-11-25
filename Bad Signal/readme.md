@@ -14,18 +14,16 @@ Our Calculation says that this is not a random noise. Here are the results: -Pea
 <img src="https://github.com/islamgab/EGCTF-Quals-19/blob/master/Bad%20Signal/ch02.JPG" alt="hint" class="center" width="400" height="350">
 
 ### Solution:
-
 <img src="https://github.com/islamgab/EGCTF-Quals-19/blob/master/Bad%20Signal/out.png" alt="chal" class="center" width="400" height="350">
 
 
-
-###### Photoshop Part
+##### Photoshop Part
 to get list of 103 row px value using photoshop and do it manual not automate
 
 To-Do
 
 
-###### Wavelength = 103 px/row
+##### Wavelength = 103 px/row
 
 ```python
 row_no_0 = [0, 103, 206, 309, 412, 515, 618, 721, 824, 927, 1030, 1133, 1236, 1339, 1442, 1545, 1648]
@@ -42,7 +40,7 @@ row_no_102 = [102, 205, 308, 411, 514, 617, 720, 823, 926, 1029, 1132, 1235, 133
 ```
 
 
-###### function for shift list of row width +Right -Left
+#### function for shift list of row width +Right -Left
 ```python
 def shift(seq, n):
     n = n % len(seq)
