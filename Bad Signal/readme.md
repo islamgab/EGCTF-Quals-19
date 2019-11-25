@@ -24,7 +24,7 @@ to get list of 103 row px value using photoshop and do it manual not automate
 Comapre 2 photo 1 orginal other noised
 
 
-<img src="https://github.com/islamgab/EGCTF-Quals-19/blob/master/Bad%20Signal/out.png" alt="hint" class="center" width="350" height="320"><img src="https://github.com/islamgab/EGCTF-Quals-19/blob/master/Bad%20Signal/pl9_2285_fnt_bw-2.jpg" alt="hint" class="center" width="350" height="325">
+<img src="https://github.com/islamgab/EGCTF-Quals-19/blob/master/Bad%20Signal/out.png" alt="hint" class="center" width="350" height="320">  <img src="https://github.com/islamgab/EGCTF-Quals-19/blob/master/Bad%20Signal/pl9_2285_fnt_bw-2.jpg" alt="hint" class="center" width="350" height="325">
 
 
 
