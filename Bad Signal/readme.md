@@ -20,7 +20,7 @@ Our Calculation says that this is not a random noise. Here are the results: -Pea
 ![image](https://github.com/islamgab/EGCTF-Quals-19/blob/master/Bad%20Signal/ch01.JPG)
 ![image](https://github.com/islamgab/EGCTF-Quals-19/blob/master/Bad%20Signal/ch02.JPG)
 
-![image](https://gyazo.com/eb5c5741b6a9a16c692170a41a49c858.png =250x)
+![image](https://github.com/islamgab/EGCTF-Quals-19/blob/master/Bad%20Signal/out.png =400x)
 
 ##### Wavelength = 103 px/row
 
