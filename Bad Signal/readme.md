@@ -32,3 +32,7 @@ def shift(seq, n):
     n = n % len(seq)
     return seq[n:] + seq[:n]
 ```
+
+
+### Flag:
+Greet!! The flag is EGCTF{1_c4n_d3c0d3_r053774_570n3_73x7_700_898115} You Can stop now. End of Message.
