@@ -1,3 +1,5 @@
+![GitHub Logo](/ch1.jpg)
+
 ##### Wavelength = 103 px/row
 
 ```python
