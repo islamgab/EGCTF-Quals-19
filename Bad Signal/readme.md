@@ -1,4 +1,12 @@
-![GitHub Logo](ch01.jpg)
+---
+layout: post
+title:  84d $!9N41 (400)
+description: write-up by Islam Gaber aka islamgab
+tags: ""
+url: "https://ctf2019.egcert.eg/challenges#84d%20$!9N41"
+---
+
+![image](https://github.com/islamgab/EGCTF-Quals-19/blob/master/Bad%20Signal/ch01.JPG)
 
 ##### Wavelength = 103 px/row
 
